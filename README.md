@@ -76,50 +76,47 @@ Hello! I'm a defensive cybersecurity professional specializing in **Blue Team op
 
 ---
 
-## 🚀 Blue Team Projects
+## 🌟 Featured Projects
 
-### 🔐 Featured Defensive Projects
+### 1. **SIEM Detection Engineering Lab**
+*(Full detailed write-up like before)*
 
-#### 1. **SIEM Detection Engineering Lab**
-**Description:** Built custom detection rules for common TTPs using MITRE ATT&CK mapping
-- **Stack:** Splunk Free, Sigma Rules, MITRE ATT&CK Navigator
-- **Key Detections:** 
-  - Suspicious PowerShell execution patterns
-  - Lateral movement via PsExec/WMI
-  - Data exfiltration indicators (DNS tunneling, large outbound transfers)
-- **Outcome:** 15+ production-ready correlation rules with documented false-positive testing
-- **Link:** [View Ruleset](#) | [Write-up](#)
+### 2. **SOC Triage Automation**
+*(Full detailed write-up)*
 
-#### 2. **SOC Triage Playbook Automation**
-**Description:** Automated initial alert triage workflow to reduce MTTR
-- **Stack:** Python, TheHive, MISP, REST APIs
-- **Features:**
-  - Auto-enrichment of IOCs (VirusTotal, AbuseIPDB, Whois)
-  - Automated severity scoring based on asset criticality
-  - One-click ticket creation with context attachment
-- **Impact:** Reduced Tier-1 analyst triage time by ~40%
-- **Link:** [GitHub Repo](#) | [Demo Video](#)
+---
 
-#### 3. **Threat Hunting with Elastic Stack**
-**Description:** Proactive hunting exercises using hypothesis-driven methodology
-- **Stack:** Elastic SIEM, Osquery, Velociraptor
-- **Hunting Hypotheses:**
-  - "Adversaries may abuse scheduled tasks for persistence"
-  - "Living-off-the-land binaries (LOLBins) used for credential dumping"
-- **Deliverables:** Hunt reports, KQL queries, detection gaps analysis
-- **Link:** [Hunt Reports](#) | [Query Library](#)
+## 📚 Project Gallery
 
-#### 4. **Incident Response Simulation**
-**Description:** End-to-end IR tabletop + technical simulation for ransomware scenario
-- **Framework:** NIST SP 800-61 Rev. 2
-- **Activities:** 
-  - Evidence collection & chain of custody
-  - Memory/disk forensics with Autopsy & Volatility
-  - Containment playbook execution
-  - Post-incident lessons learned report
-- **Link:** [IR Report Template](#) | [Walkthrough](#)
+<details>
+<summary><b>🔍 Detection Engineering Projects (5)</b></summary>
 
-*🔧 More projects in development: SOAR playbook library, threat intel feed aggregator, phishing analysis sandbox*
+1. **[Sigma Rule Development](link)** - Created 50+ detection rules
+2. **[Splunk Dashboard](link)** - Custom security monitoring dashboard
+3. **[MITRE ATT&CK Mapping](link)** - Coverage analysis tool
+4. **[Log Source Analysis](link)** - Windows Event Log parser
+5. **[YARA Rules](link)** - Malware detection signatures
+
+</details>
+
+<details>
+<summary><b>🤖 Automation & Scripting (4)</b></summary>
+
+1. **[Alert Triage Bot](link)** - Automated IOC enrichment
+2. **[Phishing Analyzer](link)** - Email header & attachment analysis
+3. **[Report Generator](link)** - Automated IR report creation
+4. **[API Integration](link)** - VirusTotal/AbuseIPDB connector
+
+</details>
+
+<details>
+<summary><b>🎯 Threat Hunting (3)</b></summary>
+
+1. **[Hunt #1 - Lateral Movement](link)**
+2. **[Hunt #2 - Persistence](link)**
+3. **[Hunt #3 - Data Exfil](link)**
+
+</details>
 
 ---
 
