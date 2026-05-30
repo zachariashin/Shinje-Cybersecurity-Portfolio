@@ -26,7 +26,9 @@ Detection rules, SIEM content, and security monitoring development.
 - 📄 [Writeup](./project-name.md)
 - 💻 [GitHub Repo](#)
 - 📊 [Dashboard/Demo](#)
-- ![Splunk detection dashboard showing rule hits](./siem-detection-lab/screenshot1.png)
+
+<img width="1266" height="609" alt="image" src="https://github.com/user-attachments/assets/06290636-45ba-4119-bea4-133a7ec5c354" />
+
 ---
 
 *No projects yet. Create your first detection engineering project!*
