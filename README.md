@@ -7,7 +7,7 @@
 ![Last Updated](https://img.shields.io/github/last-commit/zachariashin/Shinje-Cybersecurity-Portfolio?style=for-the-badge)
 ![SOC Analyst](https://img.shields.io/badge/Role-SOC_Analyst-blue?style=for-the-badge)
 
-**Detect. Respond. Defend.**
+**Monitor. Detect. Respond. Defend.**
 
 [About](#-about) • [Skills](#-skills) • [Projects](#-projects) • [Certifications](#-certifications) • [Contact](#-contact)
 
@@ -40,7 +40,6 @@ Hello! I'm a defensive cybersecurity professional specializing in **Blue Team op
   <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elastic">
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Sentinel">
   <img src="https://img.shields.io/badge/QRadar-0052A0?style=for-the-badge&logo=ibm&logoColor=white" alt="QRadar">
-  <img src="https://img.shields.io/badge/Wazuh-FF6600?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh">
 </p>
 
 ### 🔹 EDR & Endpoint Security
