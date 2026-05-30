@@ -88,16 +88,16 @@ Hello! I'm a defensive cybersecurity professional specializing in **Blue Team op
 
 ## 📚 Project Gallery
 
-<details>
-<summary><b>🔍 Detection Engineering Projects (5)</b></summary>
+## 🚀 Projects
 
-1. **[Sigma Rule Development](link)** - Created 50+ detection rules
-2. **[Splunk Dashboard](link)** - Custom security monitoring dashboard
-3. **[MITRE ATT&CK Mapping](link)** - Coverage analysis tool
-4. **[Log Source Analysis](link)** - Windows Event Log parser
-5. **[YARA Rules](link)** - Malware detection signatures
+| Category | Focus | Browse |
+|----------|-------|--------|
+| 🔍 **Detection Engineering** | SIEM rules, correlation logic, MITRE mapping | [View Projects](projects/detection-engineering/README.md) |
+| 🤖 **Automation & SOAR** | Python/PowerShell scripts, alert triage, workflow automation | [View Projects](projects/automation/README.md) |
+| 🎯 **Threat Hunting** | Hypothesis-driven hunts, KQL/SPL queries, TTP analysis | [View Projects](projects/threat-hunting/README.md) |
+|  **Incident Response** | IR simulations, forensics, playbook development | [View Projects](projects/incident-response/README.md) |
 
-</details>
+📖 **Full Project Gallery:** [Browse All Projects](projects/README.md)
 
 <details>
 <summary><b>🤖 Automation & Scripting (4)</b></summary>
